@@ -1,0 +1,8 @@
+{
+  "name": "Solo Leveling System",
+  "description": "A gamified interface inspired by the Solo Leveling series, featuring status management, daily quests, and AI-generated dungeon encounters.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
